@@ -1,3 +1,4 @@
+// What is this for?
 const { db } = require('@vercel/postgres');
 const {
   invoices,
